@@ -5,7 +5,7 @@
 
 ## 멤버
 
-| ![황희정프로필](https://github.com/goatFE.png?size=100) | ![박하은프로필](https://github.com/pullingoff.png?size=100) | ![정보연프로필](https://github.com/JEONGBOYEON.png?size=100) |
+| ![황희정프로필](https://github.com/goatFE.png?size=100) | ![박하은프로필](https://github.com/pullingoff.png?size=100) | ![정보연프로필](https://github.com/boyeonJ.png?size=100) |
 |:-------------------------------------------------:|:-----------------------------------------------------:|:------------------------------------------------------:|
 |         [황희정](https://github.com/goatFE)          |           [박하은](https://github.com/mnxmnz)            |           [정보연](https://github.com/Tolluset)           |
 |                     **완강 목표**                     |             **거미는 자신의 실로써 공간의 자유에 이른다.**              |                       **적어주세요**                        |
